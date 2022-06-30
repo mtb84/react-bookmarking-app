@@ -33,3 +33,7 @@ button:hover {
   background-color: #358856;
   cursor: pointer;
 }
+
+input::placeholder {
+  text-align: center;
+}
